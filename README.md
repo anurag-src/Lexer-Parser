@@ -42,4 +42,4 @@
 * One is the stack output of the LL parser, which details the production rules used from the CFG grammar, the contents of the stack before and after using the production rule, and the input pointer.
 * Whenever a token from the input (The token list outputted by the lexer) is matched with the top of the stack, it will denote so. 
 * The other output file is the tree output, a parsing tree is constructed and the output is the DFS traversal of said tree, specifying each parent and it's children.       
-* The "Parser_Output" folder contains outputs corresponding to the code test cases and the lexer outputs (stack_output1 corresponds to the test_case1 code txt file and the output1 txt file from the lexeme output)
+* The "Parser_Output" folder contains outputs corresponding to the code test cases and the lexer outputs (stack_output1 corresponds to the stack output of the test_case1 code txt file and the output1 txt file from the lexeme output).
