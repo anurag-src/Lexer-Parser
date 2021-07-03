@@ -1,0 +1,12 @@
+fun main():
+	int a:
+	int b:
+	scan(a):
+	scan(c): 
+	b = 0:
+	loop(b<=a):
+		b=b+1:
+		print(c):
+	endloop:
+	ret 0:
+	endfun:

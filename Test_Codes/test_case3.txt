@@ -1,0 +1,14 @@
+int fun sum(int a,int b):
+	int c:
+	c = a+b:
+	print(c):
+endfun:
+fun main():
+	int a:
+	int b:
+	scan(a):
+	b = scan(b): 
+	b = 0:
+	fun sum(a,b):
+	ret 0:
+	endfun:
