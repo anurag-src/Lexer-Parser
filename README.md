@@ -13,8 +13,8 @@
 * Before every function name and after its return type the keyword 'fun' must be specified and the last statement of the function must be followed by the keyword 'endfun'.
 * The language similarly supports loops and if statements.
 * The language supports in built print and scan functions.
-* See the test codes in the "Test_Codes" folder to get a better idea.
-* The parser is an LL Parser.
+* See the sample test codes in the "Test_Codes" folder to get a better idea.
+* The parser is an LL Parser. The parsing table is provided in the "Parser" folder.
 * The CFG is provided in the pdf and the parsing table is provided in the Parser folder.
 * Synch, Skip and Terminal errors are handled by the parser and the line number that causes the error is specified.
 
